@@ -1,5 +1,6 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:purple
+Favorite food:hamburger 
+Favorite musician/band:The Weekend 
+Favorite movie: Shutter Island
+Requested grade in the course:100
+ 
